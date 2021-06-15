@@ -1,0 +1,57 @@
+/*reset start*/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  outline: none;
+  text-decoration: none;
+  font-family: inherit;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a img {
+  border: none;
+}
+
+button,
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}
+
+button,
+input,
+textarea,
+select {
+  -webkit-appearance: none !important;
+     -moz-appearance: none !important;
+          appearance: none !important;
+  border-radius: 0;
+}
+
+/*reset end*/
+.movie h2, .movie h3, .movie h4 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 1.5em;
+  color: #bd1e6d;
+}
+/*# sourceMappingURL=style.css.map */
